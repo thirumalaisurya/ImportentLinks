@@ -1,0 +1,102 @@
+
+https://www.analyticsvidhya.com/blog/2019/09/feature-engineering-images-introduction-hog-feature-descriptor/
+
+https://www.kaggle.com/ashrafkhan94/matterport-mask-r-cnn-model-object-detection/notebook
+
+https://www.kaggle.com/aruchomu/yolo-v3-object-detection-in-tensorflow
+
+https://www.kaggle.com/litaldavar/hard-head-detection-with-yolov5
+
+https://www.kaggle.com/paulinecalut/casque-detection-pauline
+
+https://curiousily.com/posts/object-detection-on-custom-dataset-with-yolo-v5-using-pytorch-and-python/
+
+
+https://www.kaggle.com/arnabdeepnath/1-analysis-caliche-training-module-module-3
+
+https://www.kaggle.com/joelkalildasilva/hard-hat-detection/notebook
+
+https://www.kaggle.com/mtszkw/reading-sample-image-and-bounding-boxes-from-xml
+
+https://www.kaggle.com/akdagmelih/multi-class-ship-classification-xception/notebook
+
+https://www.kaggle.com/mpwolke/weather-gan
+
+https://towardsai.net/p/computer-vision/50-object-detection-datasets-from-different-industry-domains   
+
+https://github.com/AgaMiko/data-augmentation-review/blob/master/README.md
+
+https://www.kaggle.com/dasmehdixtr/carla-driver-behaviour-dataset/code
+
+https://www.kaggle.com/ipythonx/keras-global-wheat-detection-with-mask-rcnn
+
+
+https://www.kaggle.com/madhur2patle/sggs-first-submission
+
+https://www.kaggle.com/madhur2patle/sggs-first-submission
+
+https://stackoverflow.com/questions/58638406/superviseddbnclassification-object-has-no-attribute-classes 
+
+https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
+plot types ML
+https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html 
+this one also a plot in ML
+https://www.kaggle.com/klmsathishkumar/mit-bih-arrhythmia-database/code   
+Arithmia dataset
+https://www.kaggle.com/klmsathishkumar/analyze-your-heart-arrhythmia-prediction
+https://www.kaggle.com/mohamedbakrey/eda-for-zomato-bangalore-and-using-ml    ZOMATO DATASET
+https://www.kaggle.com/klmsathishkumar/mit-bih-arrhythmia-database      ECG
+https://www.kaggle.com/khatri007/detection-of-congestive-heart-failure-using-ecg/notebook    ECG 2 dataset with code
+https://www.kaggle.com/search?q=MIT-BIH+Arrhythmia+Database        ALL CODE AND DATASET ECG
+https://www.kaggle.com/niraj22/newnotebook/notebook         ECG REAL DATASET
+https://www.kaggle.com/paultimothymooney/identifying-ships-in-satellite-images              SHIP DETAECTION
+https://www.kaggle.com/muthuj7/weather-dataset/code      WEATHER PREDITION
+https://www.kaggle.com/ashmalvayani/performing-analysis-of-meteorological-data     WEATHER PREDITION IMPORTENT CODE
+https://www.kaggle.com/michaelfumery/brain-tumor-3d-multimodal-cnn-all-mri-type/notebook        BRAIN MULTIMODEL #D
+https://www.kaggle.com/dschettler8845/brats-2021-task1/code                         dataset downloaded to put localdesk d
+https://www.kaggle.com/rastislav/3d-mri-brain-tumor-segmentation-u-net/data?select=BraTS2020_TrainingData                                         Will download a dataset after monday 
+https://www.kaggle.com/ouassimboutalliss/tumor-classification-segm-unet-deeplabv3                                                               will check on monday morning 
+
+https://github.com/karndeepsingh
+ML ALGORITHMS
+https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/code
+https://we.tl/t-b1EwOVhAsq                 32053 dataset link
+https://www.kaggle.com/landlord/handwriting-recognition/code
+handwrite recog 
+https://www.kaggle.com/shreyaspj/3d-mri-analysis                                             V-Net 3D
+https://www.freecodecamp.org/news/how-to-build-your-first-neural-network-to-predict-house-prices-with-keras-f8db83049159/                      basic prediction code
+https://github.com/prathameshtari/Predicting-Football-Match-Outcome-using-Machine-Learning
+https://github.com/nouran551/hard-hat-detection      
+04/03/2022
+https://github.com/nouran551/Machine-Learning-Training    Machine Learning assignments...
+https://www.kaggle.com/aliasgartaksali/hindi-to-english-neural-machine-translation                         HINDI
+https://valueml.com/helmet-detection-using-tensorflow-and-keras/
+https://stackoverflow.com/questions/62450378/how-to-apply-datagenerator-to-train-and-validation-data                                                 2MRW WILL CHECK 1198
+https://blog.katastros.com/a?ID=01800-9a806307-3c70-4807-b78c-22b58c32b326      Document for Vnet
+https://github.com/fchollet/deep-learning-with-python-notebooks                   ML IMPORTENT LINKS
+
+
+
+
+https://github.com/baudcode/tf-semantic-segmentation/tree/master/examples
+segmentation code
+https://www.kaggle.com/jsrshivam/job-recommendation-case-study
+https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.imshow.html          basic image processing codes
+https://analyticsindiamag.com/my-experiment-with-unet-building-an-image-segmentation-model/                                                                                                                                                                        image segmentation 
+https://vincentblog.xyz/posts/medical-images-in-python-computed-tomography    mask conversion
+https://stackoverflow.com/questions/42297665/medical-image-segmentation-with-cv2                                                                                                          mask image code
+https://www.kaggle.com/juldelon/boat-detector-hog-and-svm
+https://www.kaggle.com/furkanuysl/identifying-ship-in-satellite-images-ann-cnn
+https://www.kaggle.com/paultimothymooney/identifying-ships-in-satellite-images
+https://www.kaggle.com/balraj98/yolo-v5-car-object-detection
+https://analyticsindiamag.com/hands-on-guide-to-object-detection-using-yolo/
+https://machinelearningmastery.com/how-to-perform-object-detection-in-photographs-with-mask-r-cnn-in-keras/
+https://rwightman.github.io/pytorch-image-models/models/csp-resnext/
+https://medium.com/analytics-vidhya/image-dataset-labeling-annotation-bec3390eda2d
+this one is will check morning
+https://automaticaddison.com/how-to-annotate-images-using-opencv/
+this one also
+This code used for   “airline-passengers.csv“).
+https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+https://www.kaggle.com/ipythonx/keras-global-wheat-detection-with-mask-rcnn
+wheat detection
